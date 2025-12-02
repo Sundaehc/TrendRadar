@@ -99,7 +99,11 @@ weight:
 platforms:
   - id: "wallstreetcn-hot"
     name: "华尔街见闻 最热"
+  - id: "wallstreetcn-news"
+    name: "华尔街见闻 最新"
   - id: "cls-hot"
     name: "财联社热门"
+  - id: "cls-telegraph"
+    name: "财联社电报"
   - id: "xueqiu"
-    name: "雪球"
+    name: "雪球 热门股票"
