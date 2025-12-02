@@ -105,5 +105,5 @@ platforms:
     name: "财联社热门"
   - id: "cls-telegraph"
     name: "财联社电报"
-  - id: "xueqiu"
-    name: "雪球 热门股票"
+  - id: "jin10"
+    name: "金十数据"
